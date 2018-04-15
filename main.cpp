@@ -16,6 +16,7 @@ int main()
     // 自动转成对应的 ASCLL 码符号输出
     cout << c1 << endl;
     cout.put(c1);
+    cout << endl;
 
     char ch;
     // 里面实际存储的是输入字符对应的 ASCLL 码值;
