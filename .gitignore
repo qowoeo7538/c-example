@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+
+# IDEA artifacts and output dirs
+*.iml
+.idea
